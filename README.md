@@ -38,7 +38,7 @@ Logistics KPI Design
 
 ## 📂 Dataset
 
-Brazilian Olist eCommerce dataset (100K+ real-world orders)
+Brazilian Olist eCommerce dataset (190k+ real-world orders)
 
 Includes:
 
@@ -176,3 +176,12 @@ Build delivery prediction model
 Integrate warehouse-level performance tracking
 
 Deploy dashboard using Power BI Service
+
+
+![Dashboard Preview](Dashboard.png)
+
+
+## 📬 Connect
+**Granthi Satvinder Singh**  
+📧 granthisatvindersingh@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/granthi14)
